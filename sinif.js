@@ -52,10 +52,15 @@
 
 
 // let data= ["Salam","Dunyali","JavaSript","Proqramlasdirma","kOd","Frontend","Backend"]
+// console.log(data)
+// const data_filter=data.filter((data) => data.length ===7)
+// console.log(data_filter)
 
 
-
-
+// let numbers=[1,3,5,7,9,2,8,6,4,0]
+// console.log(numbers)
+// const numbers_sort=numbers.sort((a,b)=>b-a)
+// console.log(numbers[0])
 
 
 
