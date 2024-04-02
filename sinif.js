@@ -51,7 +51,7 @@
 
 
 
-// let data= ["Salam","Dunyali","JavaSript","Proqramlasdirma","kOd","Frontend","Backend"]
+// let data= ["Salam","Dunyali","JavaSript","Proqramlasdirma","kod","Frontend","Backend"]
 // console.log(data)
 // const data_filter=data.filter((data) => data.length ===7)
 // console.log(data_filter)
@@ -67,7 +67,7 @@
 
 
 // let numbers = [1,3,5,7,9,2,8,6,4,13,41,44];
-// function sadeededler(num){
+// function sade_ededler(num){
 //     for(let i=2; i<= num; i++){
 //         if( num %i===0){
 //             return false;
@@ -78,7 +78,7 @@
 
 // }
 
-// const numbers_filter= numbers_filter(sadeededler);
+// const numbers_filter= numbers_filter(sade_ededler);
 // console.log(numbers_filter);
 
 
